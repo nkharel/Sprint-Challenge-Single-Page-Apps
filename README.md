@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing allows a more immersive and smooth experience for the user. It prevents repeated network requests, and therefore repeated page refreshes, while still allowing for use of the browser history for navigation.
 
 ## Project Set Up
 
